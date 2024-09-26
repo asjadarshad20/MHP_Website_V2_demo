@@ -51,7 +51,6 @@ export default function Page() {
                 hrefString="https://www.youtube.com/watch?v=psuRwd4hgEA&t=3s"
                 text="Learn More"
                 theme="dark"
-                className="mt-4"
               />
             </div>
           </div>
